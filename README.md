@@ -1,1 +1,1 @@
-Geocode using Google Maps API
+Geocoder widget for Esri Web App Builder
