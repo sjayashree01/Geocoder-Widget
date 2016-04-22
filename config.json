@@ -1,0 +1,5 @@
+{
+  "widgetName": "geocoder",
+    "apiUrl":"https://maps.googleapis.com/maps/api/geocode/json",
+    "apiKey":"AIzaSyC33aCsvTd4vAHA2f2gigNoEkd0IsbUhzc"
+}
