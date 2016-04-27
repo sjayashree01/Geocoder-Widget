@@ -1,1 +1,1 @@
-Geocoder widget for Esri Web App Builder
+Geocoder widget using Google Maps API for Esri Web App Builder
